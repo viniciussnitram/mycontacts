@@ -10,7 +10,8 @@ export default [
     },
     rules: {
       quotes: ["error", "single"],
-      semi: ["error", "always"]
+      semi: ["error", "always"],
+      'no-unused-vars': ['error', { argsIgnorePattern: 'next' }]
     }
   },
   {
