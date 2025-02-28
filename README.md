@@ -7,7 +7,8 @@ The course is separate in topics and this topic it is about Node.js + Express, n
 - Node.js + Express;
 - Docker;
 - Postgres;
-- Insomnia.
+- Insomnia;
+- ESLint + editorconfig;
 
 ## What I learned?
 - What is an API?
