@@ -23,4 +23,4 @@ The course is separate in topics and this topic it is about Node.js + Express, n
 - Others.
 
 ## Social Media
-- [LinkedIn]('https://linkedin.com/in/viniciussmartins/');
+- [LinkedIn](https://linkedin.com/in/viniciussmartins/)
