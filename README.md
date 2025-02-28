@@ -6,7 +6,8 @@ The course is separate in topics and this topic it is about Node.js + Express, n
 ## Technologies used
 - Node.js + Express;
 - Docker;
-- Postgres.
+- Postgres;
+- Insomnia.
 
 ## What I learned?
 - What is an API?
